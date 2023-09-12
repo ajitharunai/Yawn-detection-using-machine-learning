@@ -1,4 +1,3 @@
-![Driver Drowsiness Detection](https://firebasestorage.googleapis.com/v0/b/neelanjan-manna.appspot.com/o/project-images%2FDrowsiness%20Detection.jpeg?alt=media&token=74c92bdd-0beb-4543-b7af-c0fabc9326d5)
 <h1 align="center">Welcome to Driver Drowsiness Detector 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
@@ -9,7 +8,7 @@
 
 > A real-time drowsiness detection system for drivers, which alerts the driver if they fall asleep due to fatigue while still driving. The computer vision algorithm used for the implementation uses a trifold approach to detect drowsiness, including the measurement of forward head tilt angle, measurement of eye aspect ratio (to detect closure of eyes) and measurement of mouth aspect ratio (to detect yawning).
 
-### 🏠 [Homepage](https://github.com/ajitharunai/)
+### 🏠 [Homepage](https://github.com/ajitharunai/Yawn-detection-using-machine-learning)
 
 ## Install
 
@@ -20,14 +19,14 @@ pip install -r Requirements.txt
 ## Usage
 
 ```sh
-python Driver\ Drowsiness\ Detection.py
+python Driver\ Drowsiness\ yawnDetection.py
 ```
 
 ## Author
 
-👤 **Neelanjan Manna**
+👤 **Ajith Kumar Murugan**
 
-* Website: 
+* Website: [@ajicreations] (https://ajicreations.netlify.app/)
 * Twitter: [@ajitharunai](https://twitter.com/ajitharunai)
 * Github: [@ajitharunai](https://github.com/ajitharunai)
 * LinkedIn: [@Ajith Kumar M](https://linkedin.com/in/ajitharunai)
