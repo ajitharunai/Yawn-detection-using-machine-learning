@@ -2,8 +2,8 @@
 <h1 align="center">Welcome to Driver Drowsiness Detector 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/NeelanjanManna" target="_blank">
-    <img alt="Twitter: NeelanjanManna" src="https://img.shields.io/twitter/follow/NeelanjanManna.svg?style=social" />
+  <a href="https://twitter.com/ajitharunai" target="_blank">
+    <img alt="Twitter: ajitharunai" src="https://media.licdn.com/dms/image/D5612AQFJ2Q8u1NWCwQ/article-cover_image-shrink_600_2000/0/1694490543340?e=1700092800&v=beta&t=Rgoaf45L4fxm7Sa73m5r3qCH6RP2A-KqXJmsWAkNiBE" />
   </a>
 </p>
 
